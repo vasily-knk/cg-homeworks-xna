@@ -1,5 +1,4 @@
 *.suo
-data/*
 */bin/*
 */obj/*
 *.user
